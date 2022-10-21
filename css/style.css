@@ -1,22 +1,15 @@
 body{
 	font-family : "Arial";
 	text-align : center;
+	background: #000;
 }
-<<<<<<< HEAD
 
 h1{
-	color: #aeff00;
 	color: #e4eeff;
 }
 
 p{
 	color: #cacaca;
 	font-weight: bold;
-<<<<<<< HEAD
 	font-size: 1.6rem;
 }
-=======
->>>>>>> parent of 1cbd5c0 (En esta ocasión cambie el color del titulo)
-=======
-}
->>>>>>> parent of 6732bf9 (En esta ocasión cambie el tamaño de la fuente del parrafo)
