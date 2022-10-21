@@ -1,4 +1,15 @@
 body{
 	font-family : "Arial";
 	text-align : center;
+	background: #000;
+}
+
+h1{
+	color: #aeff00;
+	color: #e4eeff;
+}
+
+p{
+	color: #cacaca;
+	font-weight: bold;
 }
