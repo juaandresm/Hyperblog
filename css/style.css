@@ -1,8 +1,8 @@
 body{
 	font-family : "Arial";
 	text-align : center;
-	background: #000;
 }
+<<<<<<< HEAD
 
 h1{
 	color: #aeff00;
@@ -14,3 +14,5 @@ p{
 	font-weight: bold;
 	font-size: 1.6rem;
 }
+=======
+>>>>>>> parent of 1cbd5c0 (En esta ocasión cambie el color del titulo)
