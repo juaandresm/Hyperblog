@@ -13,3 +13,22 @@ p{
 	font-weight: bold;
 	font-size: 1.6rem;
 }
+
+.container{
+	width: 70%;
+	height: min-content;
+	margin: 0 auto;
+	border: 1.2px solid #ceffce;
+	border-radius: 25px;
+}
+
+.container__title{
+	font-size: 32px;
+	color: rgba(127,255,127, 0.60);
+}
+
+.container__text{
+	font-size: 1.2rem;
+	font-weight: 400;
+	color: #efcfae;
+}
